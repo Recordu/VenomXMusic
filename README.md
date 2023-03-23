@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/17ded061a4ae0833a77b7.jpg" alt="ᴍᴜsɪᴄ ʙᴏᴛ">
+  <img src="https://telegra.ph/file/75a0dee096c4570c57135.jpg" alt="ᴍᴜsɪᴄ ʙᴏᴛ">
 </p>
 
 ### ʙᴇsᴛ ᴍᴜsɪᴄ ʙᴏᴛ
@@ -93,4 +93,4 @@ Atleast Give A Star and Fork The Repo 🖤
 ☞ `OWNER_ID` - Put your owner id.<br>
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/Itzvenomo)
+- » [𝐋𝐔𝐂𝐈𝐅𝐄𝐑](https://github.com/Recordu)
